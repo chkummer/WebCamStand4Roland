@@ -17,5 +17,5 @@ This was my first design using Autodesk Fusion 360. The original model may be fo
 ![printing WebCamStand](WebCamStand4Roland_02.jpg)
 
 ## Video
-You may find the Videos here: [Vimeo](https://vimeo.com/216955916)) or [YouTube](https://www.youtube.com/watch?v=sUn45yteBiw)
+You may find the Videos here: [Vimeo](https://vimeo.com/216955916) or [YouTube](https://www.youtube.com/watch?v=sUn45yteBiw)
 
